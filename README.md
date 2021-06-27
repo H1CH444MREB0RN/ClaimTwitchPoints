@@ -7,7 +7,7 @@
 
 - Download [Greasemonkey](https://addons.mozilla.org/fr/firefox/addon/greasemonkey/) (Firefox) or [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=fr) (Chrome) extension for your browser.
 
-- Download [script](https://github.com/H1CH444MREB0RN/ClaimTwitchPoints/archive/master.zip).
+- Download [Script](https://github.com/H1CH444MREB0RN/ClaimTwitchPoints/archive/master.zip).
 
 ### How to use
 
